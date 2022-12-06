@@ -1,0 +1,28 @@
+body{
+    margin:  0px;
+text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+h1{
+
+    background-color: rgb(20, 130, 3);
+    padding: 2%;
+    margin: 0px;
+    font-size: 46px;
+}
+
+p{
+
+    color: yellow;
+    font-size: 45px;
+}
+
+#textbox{
+margin: 0px;
+font-size: 35px;
+    width: 70%;
+    height: 300px;
+
+}
